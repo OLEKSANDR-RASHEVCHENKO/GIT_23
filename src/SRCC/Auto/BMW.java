@@ -7,5 +7,6 @@ public class BMW {
         Car BMW = new Car(22,"Black",12);
         System.out.println(BMW.rad);
 
+
     }
 }
